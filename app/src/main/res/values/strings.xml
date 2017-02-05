@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test Task</string>
+    <string name="title_activity_maps">Зубная фея</string>
+    <string name="action_home">Home</string>
+    <string name="action_send_email">Email</string>
+    <string name="action_on_address">Address</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_error">введите корректные данные</string>
+    <string name="email_address">введите апресс получателя</string>
+    <string name="titel_massage">введите заголовок сообщения</string>
+    <string name="text_massage">введите ваше сообщение</string>
+    <string name="msg_err_name">поле не должно быть пустым</string>
+    <string name="msg_err_email">укажите получателя</string>
+</resources><!--<string name="google_maps_key">AIzaSyDydNGmudLhD_tsySqKYsq-YElxeOuCAgU</string>-->

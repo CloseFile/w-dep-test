@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.stapk.itemtouchhelperswipe.MainActivity">
+    <item
+        android:icon="@drawable/ic_email_black_24dp"
+        android:id="@+id/on_email"
+        android:title="@string/action_send_email"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_location_on_black_24dp"
+        android:id="@+id/on_address"
+        android:title="@string/action_on_address"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+    <item
+        android:icon="@drawable/ic_news_black_24dp"
+        android:id="@+id/action_home"
+        android:orderInCategory="1"
+        android:title="@string/action_home"
+        app:showAsAction="always" />
+</menu>
